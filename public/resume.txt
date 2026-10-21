@@ -1,6 +1,0 @@
-Dinah Khan — Java Full-Stack Developer
-
-Email: dinahkhan02@gmail.com
-GitHub: https://github.com/Dinah-02
-
-(Replace this file with your actual resume PDF named resume.pdf in the public folder.)

@@ -527,7 +527,7 @@ function Resume() {
                 skills.
               </p>
               <a
-                href="/resume.pdf"
+                href="/Dinaah_Resume.pdf"
                 download
                 className="mt-8 inline-flex items-center gap-2 rounded-md bg-[#0648df] px-6 py-3 font-semibold text-white transition-colors duration-200 hover:bg-[#0038bd]"
               >
